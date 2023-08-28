@@ -1,0 +1,14 @@
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net6.0\PrimeiroProjetoEmCSharp.exe
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net6.0\PrimeiroProjetoEmCSharp.deps.json
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net6.0\PrimeiroProjetoEmCSharp.runtimeconfig.json
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net6.0\PrimeiroProjetoEmCSharp.dll
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\bin\Debug\net6.0\PrimeiroProjetoEmCSharp.pdb
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\PrimeiroProjetoEmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\PrimeiroProjetoEmCSharp.AssemblyInfoInputs.cache
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\PrimeiroProjetoEmCSharp.AssemblyInfo.cs
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\PrimeiroProjetoEmCSharp.csproj.CoreCompileInputs.cache
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\PrimeiroProjetoEmCSharp.dll
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\refint\PrimeiroProjetoEmCSharp.dll
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\PrimeiroProjetoEmCSharp.pdb
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\PrimeiroProjetoEmCSharp.genruntimeconfig.cache
+E:\FATEC\csharp-workspace\PrimeiroProjetoEmCSharp\PrimeiroProjetoEmCSharp\obj\Debug\net6.0\ref\PrimeiroProjetoEmCSharp.dll
